@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dice/static/css/main.064a15f6.css",
+    "main.js": "/Dice/static/js/main.92cc75f8.js",
+    "index.html": "/Dice/index.html",
+    "main.064a15f6.css.map": "/Dice/static/css/main.064a15f6.css.map",
+    "main.92cc75f8.js.map": "/Dice/static/js/main.92cc75f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064a15f6.css",
+    "static/js/main.92cc75f8.js"
+  ]
+}
